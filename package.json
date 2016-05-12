@@ -7,7 +7,7 @@
     "type": "git",
     "url": "khankuan/react-tourist"
   },
-  "main": "./lib/react-tourist.js",
+  "main": "./src/lib/react-tourist.js",
   "files": [
     "LICENSE",
     "README.md",
